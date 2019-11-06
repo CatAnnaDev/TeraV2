@@ -1,1 +1,3 @@
-<href src="https://psykodev.github.io/TeraV2/">
+<href,
+style = text_aligne:center,
+src="https://psykodev.github.io/TeraV2/">
